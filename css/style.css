@@ -1,0 +1,19 @@
+body  {
+  background-color: lightblue;
+}
+#content {
+  min-height: calc(100vh - 180px);
+}
+
+#footer { 
+	background-color: white;
+	min-height: 104px;
+}
+
+#footer, p {
+	color: black;
+	align-items: center;
+	text-align: center;
+	padding-top: 2px;
+}
+
